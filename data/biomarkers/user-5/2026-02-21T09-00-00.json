@@ -1,0 +1,174 @@
+{
+  "user_id": "user-5",
+  "tested_at": "2026-02-21T09:00:00",
+  "results": [
+    {
+      "biomarker_id": "fasting_glucose",
+      "value": 98.5,
+      "unit": "mg/dL",
+      "status": "good",
+      "ranges": {
+        "optimal": {
+          "min": 70.0,
+          "max": 90.0
+        },
+        "good": {
+          "min": 90.0,
+          "max": 100.0
+        },
+        "improve": {
+          "min": 100.0,
+          "max": 250.0
+        }
+      },
+      "source": "lab_import"
+    },
+    {
+      "biomarker_id": "hba1c",
+      "value": 5.49,
+      "unit": "%",
+      "status": "good",
+      "ranges": {
+        "optimal": {
+          "min": 4.0,
+          "max": 5.1
+        },
+        "good": {
+          "min": 5.1,
+          "max": 5.6
+        },
+        "improve": {
+          "min": 5.6,
+          "max": 12.0
+        }
+      },
+      "source": "lab_import"
+    },
+    {
+      "biomarker_id": "fasting_insulin",
+      "value": 8.86,
+      "unit": "uIU/mL",
+      "status": "improve",
+      "ranges": {
+        "optimal": {
+          "min": 0.0,
+          "max": 4.0
+        },
+        "good": {
+          "min": 4.0,
+          "max": 8.0
+        },
+        "improve": {
+          "min": 8.0,
+          "max": 40.0
+        }
+      },
+      "source": "lab_import"
+    },
+    {
+      "biomarker_id": "uric_acid",
+      "value": 6.47,
+      "unit": "mg/dL",
+      "status": "good",
+      "ranges": {
+        "optimal": {
+          "min": 0.0,
+          "max": 5.5
+        },
+        "good": {
+          "min": 5.5,
+          "max": 7.0
+        },
+        "improve": {
+          "min": 7.0,
+          "max": 14.0
+        }
+      },
+      "source": "lab_import"
+    },
+    {
+      "biomarker_id": "alt",
+      "value": 29.3,
+      "unit": "U/L",
+      "status": "good",
+      "ranges": {
+        "optimal": {
+          "min": 0.0,
+          "max": 25.0
+        },
+        "good": {
+          "min": 25.0,
+          "max": 40.0
+        },
+        "improve": {
+          "min": 40.0,
+          "max": 200.0
+        }
+      },
+      "source": "lab_import"
+    },
+    {
+      "biomarker_id": "ast",
+      "value": 11.68,
+      "unit": "U/L",
+      "status": "optimal",
+      "ranges": {
+        "optimal": {
+          "min": 0.0,
+          "max": 25.0
+        },
+        "good": {
+          "min": 25.0,
+          "max": 40.0
+        },
+        "improve": {
+          "min": 40.0,
+          "max": 200.0
+        }
+      },
+      "source": "lab_import"
+    },
+    {
+      "biomarker_id": "ggt",
+      "value": 37.7,
+      "unit": "U/L",
+      "status": "good",
+      "ranges": {
+        "optimal": {
+          "min": 0.0,
+          "max": 25.0
+        },
+        "good": {
+          "min": 25.0,
+          "max": 50.0
+        },
+        "improve": {
+          "min": 50.0,
+          "max": 300.0
+        }
+      },
+      "source": "lab_import"
+    },
+    {
+      "biomarker_id": "albumin",
+      "value": 4.5,
+      "unit": "g/dL",
+      "status": "optimal",
+      "ranges": {
+        "optimal": {
+          "min": 4.3,
+          "max": 5.2
+        },
+        "good": {
+          "min": 3.8,
+          "max": 4.3
+        },
+        "improve": {
+          "min": 2.0,
+          "max": 3.8
+        }
+      },
+      "source": "lab_import"
+    }
+  ]
+}
